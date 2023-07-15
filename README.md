@@ -10,6 +10,8 @@
 - Upload the file in 'CHALLENGE FOLDER'
 - That's it, we will announce the coolest readme through our social media.
 
+## REFERENCE
+ You can check the reference folder for some idea or visit [EddieHub](https://github.com/EddieHubCommunity/awesome-github-profiles)
   ## FOLLOW US ON
 
   <div id="badges" align="center">
