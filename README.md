@@ -5,9 +5,9 @@
 ![Mashrise Designs (12)](https://github.com/coding-connoisseurs-foet/Readme-Challenge/assets/83975944/97ea1c14-16d2-4ac1-830f-f6c25b2ac34d)
 
 ## STEPS TO WIN
-- create a attractive readme
-- take the SS and your screenshot must be named by your "NAME" e.g "priyanshi.png"
-- upload the file in 'CHALLENGE FOLDER'
+- Create an attractive readme
+- Take the SS and your screenshot must be named by your "NAME" e.g "priyanshi.png"
+- Upload the file in 'CHALLENGE FOLDER'
 - That's it, we will announce the coolest readme through our social media.
 
   ## FOLLOW US ON
